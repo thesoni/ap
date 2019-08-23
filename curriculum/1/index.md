@@ -9,6 +9,8 @@
   * [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html) or [Credit](https://docs.cs50.net/2019/ap/problems/credit/credit.html)
   * [Mario(less comfy)](https://docs.cs50.net/2019/ap/problems/mario/less/mario.html) or [Mario(more comfy)](https://docs.cs50.net/2019/ap/problems/mario/more/mario.html)
   * [Reverse Engineer](https://docs.cs50.net/2018/ap/problems/reverse/reverse.html)
+  * [Initials (less)](http://docs.cs50.net/2018/ap/problems/initials/less/initials.html) or [Initials (more)](http://docs.cs50.net/2018/ap/problems/initials/more/initials.html)
+
 * Shorts
   * [Command Line](https://www.youtube.com/watch?v=lnYKOnz9ln8)
   * [Conditional Statements](https://www.youtube.com/watch?v=FqUeHzvci10)
