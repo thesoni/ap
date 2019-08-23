@@ -5,6 +5,8 @@
   * [What different sorting algorithms sound like](https://www.youtube.com/watch?v=t8g-iYGHpEA)
 * [Notes](notes)
 * Problems
+  * [Reverse Engineer](https://docs.cs50.net/2018/ap/problems/reverse/reverse.html)
+  * [Initials (less)](http://docs.cs50.net/2018/ap/problems/initials/less/initials.html) or [Initials (more)](http://docs.cs50.net/2018/ap/problems/initials/more/initials.html)
   * [Old Friends](https://docs.cs50.net/2019/ap/problems/friends/friends.html)
   * [Calc](https://docs.cs50.net/2019/ap/problems/calc/calc.html)
   * [Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html)
